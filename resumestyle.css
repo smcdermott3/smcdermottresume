@@ -1,0 +1,23 @@
+body {
+    margin: 10px;
+    border: rgb(196, 196, 196) solid 2px;
+}
+h1 {
+    text-align: center;
+}
+
+h3 {
+    margin-left: 20px;
+  }
+h4 {
+    font-style: italic;
+    margin-left: 20px;
+}
+
+
+p {
+    margin-left: 200px;
+    margin-top: -0px;
+    color: black;
+  }
+
